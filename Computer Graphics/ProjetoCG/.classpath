@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="textures"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all.jar" sourcepath="/home/andrey/projetos/CG/jogamp-all-platforms/jogl-java-src.zip"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
